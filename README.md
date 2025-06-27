@@ -19,13 +19,12 @@ HTML5: Para a estrutura e conteúdo da página.
 CSS3: Para a estilização e layout, incluindo a imagem de fundo e o alinhamento dos elementos.
 
 🚀 Como Visualizar
+<br>
 Acesse este link onde hospedei o código: 
+
 
 🧑‍💻 Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões para melhorar o conteúdo, o design ou adicionar mais curiosidades sobre a dublagem, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-📄 Licença
-Este projeto está licenciado sob a licença MIT License.
 
 🙏 Agradecimentos
 A todos os dubladores brasileiros que, com suas vozes, tornam nossas experiências audiovisuais muito mais ricas e divertidas! Vocês são incríveis!
